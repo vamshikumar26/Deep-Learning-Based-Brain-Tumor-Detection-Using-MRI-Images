@@ -32,7 +32,7 @@ brain-tumor-detection/
 
 ├── pretrain_model/ # Directory where trained model weights are stored
 
-│ └── model.h5
+│ └── xception_weights_tf_dim_ordering_tf_kernels_notop.h5
 
 ├── main.py # Flask app entry point for image upload and prediction
 
