@@ -28,7 +28,7 @@ brain-tumor-detection/
 
 │ ├── index.html
 
-│ └── result.html
+│ └── predict.html
 
 ├── pretrain_model/ # Directory where trained model weights are stored
 
